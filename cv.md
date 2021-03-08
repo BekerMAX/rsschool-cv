@@ -19,7 +19,3 @@ Console.log(name, age);
 Emergency Response Engineer
 ## English language
 General level of language proficiency A2 .
-
-
-
-
