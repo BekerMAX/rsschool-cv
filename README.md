@@ -1,2 +1,2 @@
-[My CV](https://BekerMAX.github.io/rsschool-cv/cv)
+[My CV](https://BekerMAX.github.com/rsschool-cv/cv)
 
