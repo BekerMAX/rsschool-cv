@@ -1,2 +1,2 @@
-https://https://github.com/BekerMAX/rsschool-cv/cv
+https://https://BekerMAX.github.io/rsschool-cv/cv
 
