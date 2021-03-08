@@ -1,9 +1,9 @@
 #  Kunda Maxim
 ## My contacts:
-    * Belarus, Hrodno
-    * **tel:** +375 (29) 887-18-60
-    * **Diskord:** BekerMAX (@BekerMAX)
-    * **email:** Beker-max@mail.ru
+* Belarus, Hrodno
+* **tel:** +375 (29) 887-18-60
+* **Diskord:** BekerMAX (@BekerMAX)
+* **email:** Beker-max@mail.ru
 ## About my:
 * I am a student of the RS school. 
 * I have a desire to learn, hardworking.
