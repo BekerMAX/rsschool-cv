@@ -5,19 +5,16 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <style>
-        .outer {
-            text-align: center;
-            border: 1xp solid blue;
-        }
-    </style>
-    <title>My CV</title>
+    <link href="style.css" rel="stylesheet">
+    <title>My CV</title> 
 </head>
 <body>
     <div class="outer">
-   <h1>Kunda Maksim</h1>
-   <img src="I.jpg" >
-    <h2>My contacts:</h2>
+    <header>
+        <h1>Kunda Maksim</h1>
+           <img src="I.jpg" atl="my photo" class="logo">
+     </header>
+       <h2>My contacts:</h2>
      <P>Belarus, Hrodno</P>
      <P>tel: +375 (29) 887-18-60</P>
      <P>Diskord: BekerMAX (@BekerMAX)</P>
@@ -32,7 +29,16 @@
      <p>Emergency Response Engineer</p>
     <H2>English language</H2>
      <p>General level of language proficiency A2</p>
-
-</div>
+         <footer>
+        
+            <a target="_blank" href="https://github.com/bekermax">
+            <img src="data:image/png;base64,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" alt="Github">
+        </a>
+        <a target="_blank" href="https://rs.school/js/">
+                <img src="https://media-exp1.licdn.com/dms/image/C4D0BAQFVpYkPoPggVA/company-logo_200_200/0/1567496637030?e=2159024400&v=beta&t=LymgA1QzjHSv8QuK1tcCHZvkYBtDZ5LRqtAX2uFqLbc" alt="RS school">
+        </a>       
+     </footer>
+    </div>
 </body>
+
 </html>

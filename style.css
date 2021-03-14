@@ -1,0 +1,40 @@
+
+* {
+    
+    padding: 0;
+    margin: auto;    
+
+}
+
+.outer {
+     text-align: center;   
+    max-width: 1000px;
+    margin: auto;
+    
+    }
+header {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    margin: auto;
+    
+}
+.logo {
+    width: 150px;
+}
+footer {
+    height: 100px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 6fr;
+    grid-template-rows: 100px;
+    
+    justify-items: right;
+    align-items: center;
+    
+
+    background-color: rgb(252, 236, 236);
+}
+footer img {
+    width: 30%;
+}
+ 
